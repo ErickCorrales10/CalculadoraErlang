@@ -26,9 +26,9 @@ Título del trabajo:
 Exposición Calculadora en Erlang  
 
 Estudiantes:  
+Arenas Herrera Josue 22210282
 Corrales Quintero Erick Roberto - 23211004  
 Herrera Aguilar José Manuel - 20212410  
-Arenas Herrera Josue 22210282
   </p>
   
 </pre>
