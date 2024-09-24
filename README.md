@@ -28,6 +28,7 @@ Exposición Calculadora en Erlang
 Estudiantes:  
 Corrales Quintero Erick Roberto - 23211004  
 Herrera Aguilar José Manuel - 20212410  
+Arenas Herrera Josue 22210282
   </p>
   
 </pre>
@@ -299,3 +300,26 @@ recibir_respuesta() ->
     end.
 ```
 
+# Implementación
+
+## Links a Asciinema
+
+### Nodo Suma
+
+https://asciinema.org/a/vBKMfnRxHSclt180Vly3KLLbR
+
+### Nodo Resta
+
+https://asciinema.org/a/FKoAVLtrC2nTeTm6MZy5i4Ore
+
+### Nodo Multiplicación
+
+https://asciinema.org/a/4gu9mEldPzeesuMjSfBMaHqy9
+
+### Nodo Division
+
+https://asciinema.org/a/IQvW1wSo4alecX3X5mX5LzFPX
+
+### Calculadora
+
+https://asciinema.org/a/BnqvDnT5KgaEY1crI3nATH8ec
