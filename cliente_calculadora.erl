@@ -11,13 +11,13 @@ enviar_solicitud(Operacion, A, B) ->
 
     Nodo = case Operacion of
         suma -> {nodo_suma, 'nodo_suma@ip-172-31-86-126'};
-        % Si la operación es suma, el nodo de destino es 'nodo_suma@DESKTOP-EHRMQP1'.
+        % Si la operación es suma, el nodo de destino es 'nodo_suma@ip-172-31-86-126'.
         resta -> {nodo_resta, 'nodo_resta@ip-172-31-86-126'};
-        % Si la operación es resta, el nodo de destino es 'nodo_resta@DESKTOP-EHRMQP1'.
+        % Si la operación es resta, el nodo de destino es 'nodo_resta@ip-172-31-86-126'.
         multiplicacion -> {nodo_multiplicacion, 'nodo_multiplicacion@ip-172-31-86-126'};
-        % Si la operación es multiplicación, el nodo de destino es 'nodo_multiplicacion@DESKTOP-EHRMQP1'.
+        % Si la operación es multiplicación, el nodo de destino es 'nodo_multiplicacion@ip-172-31-86-126'.
         division -> {nodo_division, 'nodo_division@ip-172-31-86-126'}
-        % Si la operación es división, el nodo de destino es 'nodo_division@DESKTOP-EHRMQP1'.
+        % Si la operación es división, el nodo de destino es 'nodo_division@ip-172-31-86-126'.
     end,
 
     % Envia el mensaje de operación al nodo especificado.
